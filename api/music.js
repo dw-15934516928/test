@@ -1,0 +1,3 @@
+function getPlaylist () {
+    return xxx
+}
